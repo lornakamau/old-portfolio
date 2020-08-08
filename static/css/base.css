@@ -9,6 +9,7 @@
 body {
     font-family: 'Lato', sans-serif;
     font-size: 1.4vw;
+    text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     color: #444;
     overflow-x: hidden;
@@ -69,6 +70,6 @@ a:hover{
 
 @media (max-width: 600px) {
     body{
-        font-size: 16px !important;
+        font-size: 18px !important;
     }
 }
