@@ -5,6 +5,7 @@
     height: 100vh;
     position: relative;
     background: url('../images/landing.jpg') no-repeat center center/cover;
+    background-color: black;
 }
 
 .header::after {
